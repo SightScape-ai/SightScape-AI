@@ -10,3 +10,5 @@ drift-vertical/concat.txt
 drift-vertical/aconcat.txt
 *.pt
 __pycache__/
+drift-vertical/shots_ai/
+drift-vertical/models/
