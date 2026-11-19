@@ -1,0 +1,12 @@
+# drift-vertical: raw Drive clips and intermediate renders (re-creatable)
+drift-vertical/source/
+drift-vertical/shots/
+drift-vertical/aud/
+drift-vertical/aud.wav
+drift-vertical/vid.mp4
+drift-vertical/test/
+drift-vertical/sheets/
+drift-vertical/concat.txt
+drift-vertical/aconcat.txt
+*.pt
+__pycache__/
